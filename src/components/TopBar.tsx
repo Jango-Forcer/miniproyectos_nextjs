@@ -1,8 +1,8 @@
 
 export const TopBar = () => {
   return (
-    <header className="bg-blue-400 text-blue-950 p-5 text-center">
-      <h1 className="font-black">Mini Proyecto de Jose Luis Ibarra en <span className="text-white font-light font-serif">NextJS</span></h1>
+    <header className="bg-blue-300 text-blue-950 p-5 text-center">
+      <h1 className="font-black"><span className="text-white">Mini Proyecto de</span> Jose Luis en <span className="text-white font-light font-serif">NextJS</span></h1>
     </header>
   )
 }
